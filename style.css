@@ -1,0 +1,29 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.name {
+  display: block;
+  transform: rotate(90deg);
+  font-weight: 700;
+  font-size: 12rem;
+  letter-spacing: 2dvw;
+}
+
+rt {
+  font-size: 3.6rem;
+  font-weight: 500;
+}
+
+.hidden {
+  color: white;
+  position: absolute;
+  top: 0;
+  font-size: 1px;
+  font-weight: 100;
+}
