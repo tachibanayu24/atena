@@ -4,7 +4,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Sawarabi Gothic", "Noto Sans", sans-serif;
 }
 
 .name {
@@ -17,7 +17,7 @@ body {
 
 rt {
   font-size: 3.6rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .hidden {
